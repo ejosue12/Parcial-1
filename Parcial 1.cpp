@@ -41,7 +41,7 @@ int main () {
 		cout<<" antes de continuar por favor actualice los datos: "<<endl;
 		cout<<" usuario: "<<endl;
 		cin>>user;
-		cout<<" contraseña: "<<endl;
+		cout<<" contraseÃ±a: "<<endl;
 		cin>>con;
 		"\n";
 		
@@ -86,4 +86,5 @@ int main () {
 	}
 	
 	return 0;
-	}
+
+}
