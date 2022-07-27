@@ -1,3 +1,7 @@
+
+//Irving Gutierrez 8-929-466
+//Erick Rodriguez  4-778-498
+
 #include <string>
 #include <ctime>
 #include <iostream>
@@ -41,7 +45,7 @@ int main () {
 		cout<<" antes de continuar por favor actualice los datos: "<<endl;
 		cout<<" usuario: "<<endl;
 		cin>>user;
-		cout<<" contraseña: "<<endl;
+		cout<<" contraseÃ±a: "<<endl;
 		cin>>con;
 		"\n";
 		
